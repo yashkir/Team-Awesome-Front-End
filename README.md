@@ -1,13 +1,15 @@
 # General Assembly Hackathon Project - Fizen
 ## Aug 7th-20th, 2021
 
-Personal Financial Planning Assistant Web App Optimized for mobile. MERN stack project
+Personal Financial Planning Assistant Web App optimized for mobile. MERN stack project.
 
 ### Hackathon Result:
 - Runner Up/Special Mention
-- awarded based on design, execution and polish
+- Awarded based on design, execution and polish
 
-[Deloyed Project](http://taganov.net:2015/)
+[Deployed Project](http://taganov.net:2015/)
+
+[Backend Source](https://github.com/yashkir/fizen-server)
 
 ### Contributors:
 #### Devs:
